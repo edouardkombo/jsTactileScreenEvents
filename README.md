@@ -22,7 +22,7 @@ It has only few code lines and is in native javascript.
     tactileEvents.disable('zoom');
     tactileEvents.disable('mousewheel');
     tactileEvents.disable('touchmove');
-    tactileEvents.disable('highlight'); //disble text highlighting
+    tactileEvents.disable('highlight'); //disable text highlighting
 
         
 3) Live Demonstration
