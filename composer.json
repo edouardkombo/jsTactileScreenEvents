@@ -1,6 +1,6 @@
 {
-    "name": "edouardkombo/js-html5-audio-recorder",
+    "name": "edouardkombo/jsTactileScreenEvents",
     "license": "MIT",
     "type": "project",
-    "description": "Javascript html5 audio Recorder with echo cancellation"
+    "description": "Manage touch screen events for tactile web applications."
 }
