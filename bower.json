@@ -1,0 +1,39 @@
+{
+  "name": "jsTactileScreenEvents",
+  "main": "jsTactileScreenEvents.js",
+  "version": "master",
+  "authors": [
+    "Edouard Kombo <edouard.kombo@gmail.com>"
+  ],
+  "description": "Disbale multiple tactile events for touch screen applications, like mousewheel, right click, zoom, text highlighting, touchmove",
+  "keywords": [
+    "touch",
+    "screen",
+    "events",
+    "disable",
+    "touch",
+    "events",
+    "disable",
+    "tactile",
+    "events",
+    "disable",
+    "right",
+    "click",
+    "disable",
+    "zoom",
+    "disable",
+    "text",
+    "highlighting",
+    "disable",
+    "touchmove"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/edouardkombo/jsTactileScreenEvents",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
